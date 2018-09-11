@@ -1,0 +1,14 @@
+{
+  "button": {
+    "id": "fc:a6:67:98:1a:14"
+  },
+  "twilio": { 
+    "sid": "AC6e51f0fef2d634b8c65b371c4d726f20",
+    "token": "733e7a20b2ffb82a9e6e563ae2489612"
+  },
+  "message": {
+    "from": "2604085992", 
+    "to": "2607406230",   
+    "body": "Deron, please page me so I can get some work done." 
+  }
+}
